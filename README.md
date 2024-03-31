@@ -1,2 +1,0 @@
-# InternLM2TrainingCampSeasons2_202403
-书生·浦语第二期实战营笔记
